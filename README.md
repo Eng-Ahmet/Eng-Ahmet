@@ -1,16 +1,12 @@
-<h1 align="center">Hi there, my name is Ahmet 👋</h1>
-
-###
-
-<img align="left" height="123" src="https://scontent-mad1-1.xx.fbcdn.net/v/t39.30808-6/434474231_406575385661056_6539930653664216101_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=vxCNgpZ_FbMAb5RGZBg&_nc_ht=scontent-mad1-1.xx&oh=00_AfBvHp2JLuU73W8gaMhT8OcpvIGt1raS33W0gZ-8R3WQrQ&oe=662E0F33"  />
+<h1 align="left">Hi there, my name is Ahmet 👋</h1>
 
 ###
 
 <h2 align="left">Software engineer && Full Stack Web Developer. I am from Syria, currently living in Malaga, Spain, and I write code to solve problems 💻.</h2>
 
-<br clear="both">
-<br clear="both">
-<br clear="both">
+###
+
+<img align="left" height="123" src="https://scontent-mad1-1.xx.fbcdn.net/v/t39.30808-6/434474231_406575385661056_6539930653664216101_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=vxCNgpZ_FbMAb5RGZBg&_nc_ht=scontent-mad1-1.xx&oh=00_AfBvHp2JLuU73W8gaMhT8OcpvIGt1raS33W0gZ-8R3WQrQ&oe=662E0F33"  />
 
 ###
 
@@ -71,6 +67,12 @@
 
 ###
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmed741321&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
 <br clear="both">
 
 <div align="center">
@@ -95,12 +97,6 @@
   <a href="AHMET ASAAD HAMMOUD" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="51" height="40" alt="slack logo"  />
   </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmed741321&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
