@@ -8,6 +8,9 @@
 
 <h2 align="left">Software engineer && Full Stack Web Developer. I am from Syria, currently living in Malaga, Spain, and I write code to solve problems 💻.</h2>
 
+
+
+
 ###
 
 <h3 align="left">With more than a year of experience in the PHP language, I have created a group of projects, whether in artificial intelligence or website development.<br><br>I thrive on problem-solving and creating smiles for users. Collaboration is where the magic happens, and I'm always eager to dive into the latest tech trends. Let's join forces and craft some exceptional software together! 🚀</h3>
