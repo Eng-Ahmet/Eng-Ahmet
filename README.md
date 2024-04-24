@@ -1,12 +1,12 @@
+<h1 align="center">Hi there, my name is Ahmet 👋</h1>
 
 ###
 
 <img align="left" height="123" src="https://scontent-mad1-1.xx.fbcdn.net/v/t39.30808-6/434474231_406575385661056_6539930653664216101_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=vxCNgpZ_FbMAb5RGZBg&_nc_ht=scontent-mad1-1.xx&oh=00_AfBvHp2JLuU73W8gaMhT8OcpvIGt1raS33W0gZ-8R3WQrQ&oe=662E0F33"  />
 
 ###
-<h1 align="center">Hi there, my name is Ahmet 👋</h1>
 
-<h2 align="left">Software engineer && Full Stack Web Developer. I am from Syria, currently living in Malaga, Spain, and I write code to solve problems 💻.</h2>
+<h2 align="left" border="none">Software engineer && Full Stack Web Developer. I am from Syria, currently living in Malaga, Spain, and I write code to solve problems 💻.</h2>
 
 ###
 
