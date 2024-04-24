@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, my name is Ahmet 👋</h1>
+<h1 style="border: none" align="center">Hi there, my name is Ahmet 👋</h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left" border="none">Software engineer && Full Stack Web Developer. I am from Syria, currently living in Malaga, Spain, and I write code to solve problems 💻.</h2>
+<h2 align="left" style="border: none">Software engineer && Full Stack Web Developer. I am from Syria, currently living in Malaga, Spain, and I write code to solve problems 💻.</h2>
 
 ###
 
