@@ -8,8 +8,9 @@
 
 <h2 align="left">Software engineer && Full Stack Web Developer. I am from Syria, currently living in Malaga, Spain, and I write code to solve problems 💻.</h2>
 
-
-
+<br clear="both">
+<br clear="both">
+<br clear="both">
 
 ###
 
