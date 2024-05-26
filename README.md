@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Ahmed741321/count.svg?"  />
+</div>
+
+###
+
 <h1 align="left">Hi there, my name is Ahmet 👋</h1>
 
 ###
