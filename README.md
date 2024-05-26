@@ -1,8 +1,4 @@
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Ahmed741321/count.svg?"  />
-</div>
 
-###
 
 <h1 align="left">Hi there, my name is Ahmet 👋</h1>
 
@@ -103,6 +99,12 @@
   <a href="AHMET ASAAD HAMMOUD" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="51" height="40" alt="slack logo"  />
   </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Ahmed741321/count.svg?"  />
 </div>
 
 ###
