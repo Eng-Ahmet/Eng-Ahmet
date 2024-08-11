@@ -8,7 +8,7 @@
 
 ###
 
-<img align="left" height="123" src="https://scontent-mad1-1.xx.fbcdn.net/v/t39.30808-6/434474231_406575385661056_6539930653664216101_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=6nkSywM3tJQQ7kNvgEfnjfU&_nc_ht=scontent-mad1-1.xx&oh=00_AYDPAEsPc0s0HUEpVxI8s65sVqWbT061pHdXLp6QCcMN6g&oe=66592033"  />
+<img align="left" height="123" src="[https://scontent-mad1-1.xx.fbcdn.net/v/t39.30808-6/434474231_406575385661056_6539930653664216101_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=6nkSywM3tJQQ7kNvgEfnjfU&_nc_ht=scontent-mad1-1.xx&oh=00_AYDPAEsPc0s0HUEpVxI8s65sVqWbT061pHdXLp6QCcMN6g&oe=66592033](https://media.licdn.com/dms/image/v2/D5603AQGIZzeUJE_ezw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1718210362307?e=1729123200&v=beta&t=dukJ_gc8PhF0z4-L1owS5vMsvubcKB6ivDu1cybVLDY)"  />
 
 ###
 
