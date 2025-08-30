@@ -78,33 +78,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmed741321&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-###
 
-<br clear="both">
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/ahmet-asaad-hammoud-8bb455230/?originalSubdomain=es" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="51" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/Eng_Ahmet1" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="51" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://www.facebook.com/people/Ahmet-Asaad-Hammoud/100089257933989/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="51" height="40" alt="facebook logo"  />
-  </a>
-  <a href="https://www.instagram.com/eng.prog.a.a.h/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="51" height="40" alt="instagram logo"  />
-  </a>
-  <a href="a.h.ahmet.es@hotmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="51" height="40" alt="microsoft-outlook logo"  />
-  </a>
-  <a href="a.h.ahmet.es@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="51" height="40" alt="gmail logo"  />
-  </a>
-  <a href="AHMET ASAAD HAMMOUD" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="51" height="40" alt="slack logo"  />
-  </a>
-</div>
 
 ###
 
